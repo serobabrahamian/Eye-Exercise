@@ -12,3 +12,6 @@ In order to run the project please follow the following steps:
 2 - open the index file
 
 3 - hover over screen
+
+--Licensing
+Created by Serob Abrahamian
