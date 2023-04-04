@@ -12,6 +12,10 @@ In order to run the project please follow the following steps:
 
 3 - hover over screen
 
+## Roadmap of Future Improvements
+
+One main improvement that can be done to this project is to write such code that when the mouse-pointer is in the middle of both eyes, the eyes would act independently of one another and get the eyes to be in a cross-eyed state. 
+
 ## Licensing
 
 Created by Serob Abrahamian
